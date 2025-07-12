@@ -1,0 +1,8 @@
+[project]
+name = "ferret"
+version = "0.1.0"
+description = "Version management system"
+readme = "README.md"
+dependencies = [
+    "uv==0.7.20"
+]
